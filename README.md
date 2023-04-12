@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harit</h1>
+<h1 align="center">Hi 👋, I'm Harit &emsp; <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/My gif.gif" align="right" width="400" height="300"/></h1>  
 <h3 align="center">A Data Analyst Intern from India sharing data insights and code for collaborative learning and growth.</h3>
 
 
@@ -19,11 +19,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>          &emsp;                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>             &emsp;          <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/tableau-logo-tableau-software-700x263.jpg" width="130" height="50"/>             
-&emsp; <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/download.jpg" width="40" height="40"/> &emsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="120" height="120"/>          &emsp;                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/>             &emsp;          <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/tableau-logo-tableau-software-700x263.jpg" width="270" height="120"/>             
+&emsp; <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/download.jpg" width="100" height="100"/> &emsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
 &emsp;                          <a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/> 
 </a> </p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haritpremrajput&show_icons=true&locale=en&layout=compact" alt="haritpremrajput" /></p>
 
