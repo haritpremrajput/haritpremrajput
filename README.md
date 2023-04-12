@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fKJprQJFUiLEHZO9DOYk9Rz8rhYpubxs/view?usp=share_link](https://drive.google.com/file/d/1fKJprQJFUiLEHZO9DOYk9Rz8rhYpubxs/view?usp=share_link)
 
-- ⚡ Fun fact **I am that funny guy of your group who also knows to dance,sings,plays guitar and what not....you name it, i will learn that too.**
+- ⚡ Fun fact **I am that 'funny' guy of the group who also knows to dance, sings, play the guitar and what not....you name it, I will try to learn that too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
