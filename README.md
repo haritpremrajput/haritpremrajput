@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **data science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/haritpremrajput](https://github.com/haritpremrajput)
+- 👨‍💻 All of my projects are available at [https://github.com/haritpremrajput?tab=repositories](https://github.com/haritpremrajput?tab=repositories)
 
 - 📫 How to reach me **nitinharit@gmail.com**
 
