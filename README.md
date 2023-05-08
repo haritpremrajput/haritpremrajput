@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences (**Resume**) [https://drive.google.com/file/d/1fKJprQJFUiLEHZO9DOYk9Rz8rhYpubxs/view?usp=share_link](https://drive.google.com/file/d/1fKJprQJFUiLEHZO9DOYk9Rz8rhYpubxs/view?usp=share_link)
 
-- ⚡ Fun fact - **I am that 'funny guy' of the group**
+- ⚡ Fun fact - **I am that 'witty guy' of the group**
 
 <br>
 
