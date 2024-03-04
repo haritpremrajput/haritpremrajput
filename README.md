@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nitinharit@gmail.com**
 
-- 📄 Know about my experiences (**Resume**) ([https://drive.google.com/file/d/1fKJprQJFUiLEHZO9DOYk9Rz8rhYpubxs/view?usp=share_link](https://drive.google.com/file/d/1iGd985pbyiamJsZXkMmWWcFJ35FYBSjO/view?usp=sharing))
+- 📄 Know about my experiences (**Resume**) [([https://drive.google.com/file/d/1fKJprQJFUiLEHZO9DOYk9Rz8rhYpubxs/view?usp=share_link](https://drive.google.com/file/d/1iGd985pbyiamJsZXkMmWWcFJ35FYBSjO/view?usp=sharing))](https://drive.google.com/file/d/1y6baH4qFQDk5GZDqRAtFqGMA8Hivm22g/view?usp=sharing)
 
 - ⚡ Fun fact - **I am that 'witty guy' of the group**
 
