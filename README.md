@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harit &emsp; <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/My gif.gif" align="right" width="400" height="300"/></h1>  
-<h3 align="left">A Data Analyst Intern from India sharing data insights and <br>
+<h3 align="left">A Data Analyst from India sharing data insights and <br>
  code for collaborative learning and growth.</h3>
 
 
